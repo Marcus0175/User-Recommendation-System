@@ -18,6 +18,6 @@ This project implements a **scalable recommendation system** that predicts produ
 - **Programming Languages:** Python
 - **Data Handling:** Pandas, NumPy
 - **Machine Learning:** Scikit-learn, Surprise library
-- **Data Storage & Querying:** SQL (optional)
-- **Visualization:** Matplotlib, Seaborn (for exploratory data analysis)
+- **Data Storage & Querying:** SQL 
+- **Visualization:** Matplotlib, Seaborn 
 - **Version Control:** Git & GitHub
